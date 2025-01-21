@@ -11,20 +11,20 @@
 		909D54282D40153600AC3380 /* style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = style.css; sourceTree = "<group>"; };
 		909D54292D40154400AC3380 /* mediaqueries.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = mediaqueries.css; sourceTree = "<group>"; };
 		909D542A2D40154F00AC3380 /* script.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = script.js; sourceTree = "<group>"; };
-		909D542C2D40158200AC3380 /* arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = arrow.png; path = "../../../Downloads/html-css-js-portfolio-tutorial-2-main-3/assets/arrow.png"; sourceTree = "<group>"; };
-		909D542D2D40158200AC3380 /* project-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "project-1.png"; path = "../../../Downloads/html-css-js-portfolio-tutorial-2-main-3/assets/project-1.png"; sourceTree = "<group>"; };
-		909D542E2D40158200AC3380 /* resume-example.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "resume-example.pdf"; path = "../../../Downloads/html-css-js-portfolio-tutorial-2-main-3/assets/resume-example.pdf"; sourceTree = "<group>"; };
-		909D542F2D40158200AC3380 /* about-pic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "about-pic.png"; path = "../../../Downloads/html-css-js-portfolio-tutorial-2-main-3/assets/about-pic.png"; sourceTree = "<group>"; };
-		909D54302D40158200AC3380 /* linkedin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = linkedin.png; path = "../../../Downloads/html-css-js-portfolio-tutorial-2-main-3/assets/linkedin.png"; sourceTree = "<group>"; };
-		909D54312D40158200AC3380 /* experience.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = experience.png; path = "../../../Downloads/html-css-js-portfolio-tutorial-2-main-3/assets/experience.png"; sourceTree = "<group>"; };
-		909D54322D40158200AC3380 /* profile-pic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "profile-pic.png"; path = "../../../Downloads/html-css-js-portfolio-tutorial-2-main-3/assets/profile-pic.png"; sourceTree = "<group>"; };
-		909D54332D40158200AC3380 /* github.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = github.png; path = "../../../Downloads/html-css-js-portfolio-tutorial-2-main-3/assets/github.png"; sourceTree = "<group>"; };
-		909D54342D40158200AC3380 /* project-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "project-3.png"; path = "../../../Downloads/html-css-js-portfolio-tutorial-2-main-3/assets/project-3.png"; sourceTree = "<group>"; };
-		909D54352D40158200AC3380 /* email.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = email.png; path = "../../../Downloads/html-css-js-portfolio-tutorial-2-main-3/assets/email.png"; sourceTree = "<group>"; };
-		909D54362D40158200AC3380 /* project-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "project-2.png"; path = "../../../Downloads/html-css-js-portfolio-tutorial-2-main-3/assets/project-2.png"; sourceTree = "<group>"; };
-		909D54372D40158200AC3380 /* education.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = education.png; path = "../../../Downloads/html-css-js-portfolio-tutorial-2-main-3/assets/education.png"; sourceTree = "<group>"; };
-		909D54382D40158200AC3380 /* profile-pic-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "profile-pic-2.png"; path = "../../../Downloads/html-css-js-portfolio-tutorial-2-main-3/assets/profile-pic-2.png"; sourceTree = "<group>"; };
-		909D54392D40158200AC3380 /* checkmark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = checkmark.png; path = "../../../Downloads/html-css-js-portfolio-tutorial-2-main-3/assets/checkmark.png"; sourceTree = "<group>"; };
+		909D543B2D4029C100AC3380 /* linkedin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = linkedin.png; sourceTree = "<group>"; };
+		909D543C2D4029C100AC3380 /* profile-pic-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "profile-pic-2.png"; sourceTree = "<group>"; };
+		909D543D2D4029C100AC3380 /* profile-pic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "profile-pic.png"; sourceTree = "<group>"; };
+		909D543E2D4029C100AC3380 /* email.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = email.png; sourceTree = "<group>"; };
+		909D543F2D4029C100AC3380 /* project-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "project-1.png"; sourceTree = "<group>"; };
+		909D54402D4029C100AC3380 /* arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arrow.png; sourceTree = "<group>"; };
+		909D54412D4029C100AC3380 /* github.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = github.png; sourceTree = "<group>"; };
+		909D54422D4029C100AC3380 /* about-pic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "about-pic.png"; sourceTree = "<group>"; };
+		909D54432D4029C100AC3380 /* project-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "project-3.png"; sourceTree = "<group>"; };
+		909D54442D4029C100AC3380 /* education.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = education.png; sourceTree = "<group>"; };
+		909D54452D4029C100AC3380 /* project-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "project-2.png"; sourceTree = "<group>"; };
+		909D54462D4029C100AC3380 /* checkmark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = checkmark.png; sourceTree = "<group>"; };
+		909D54482D4029C100AC3380 /* experience.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = experience.png; sourceTree = "<group>"; };
+		909D54492D4029F400AC3380 /* resume.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = resume.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -42,20 +42,20 @@
 		909D542B2D40155300AC3380 /* assets */ = {
 			isa = PBXGroup;
 			children = (
-				909D542F2D40158200AC3380 /* about-pic.png */,
-				909D542C2D40158200AC3380 /* arrow.png */,
-				909D54392D40158200AC3380 /* checkmark.png */,
-				909D54372D40158200AC3380 /* education.png */,
-				909D54352D40158200AC3380 /* email.png */,
-				909D54312D40158200AC3380 /* experience.png */,
-				909D54332D40158200AC3380 /* github.png */,
-				909D54302D40158200AC3380 /* linkedin.png */,
-				909D54382D40158200AC3380 /* profile-pic-2.png */,
-				909D54322D40158200AC3380 /* profile-pic.png */,
-				909D542D2D40158200AC3380 /* project-1.png */,
-				909D54362D40158200AC3380 /* project-2.png */,
-				909D54342D40158200AC3380 /* project-3.png */,
-				909D542E2D40158200AC3380 /* resume-example.pdf */,
+				909D54422D4029C100AC3380 /* about-pic.png */,
+				909D54402D4029C100AC3380 /* arrow.png */,
+				909D54462D4029C100AC3380 /* checkmark.png */,
+				909D54442D4029C100AC3380 /* education.png */,
+				909D543E2D4029C100AC3380 /* email.png */,
+				909D54482D4029C100AC3380 /* experience.png */,
+				909D54412D4029C100AC3380 /* github.png */,
+				909D543B2D4029C100AC3380 /* linkedin.png */,
+				909D543C2D4029C100AC3380 /* profile-pic-2.png */,
+				909D543D2D4029C100AC3380 /* profile-pic.png */,
+				909D543F2D4029C100AC3380 /* project-1.png */,
+				909D54452D4029C100AC3380 /* project-2.png */,
+				909D54432D4029C100AC3380 /* project-3.png */,
+				909D54492D4029F400AC3380 /* resume.pdf */,
 			);
 			path = assets;
 			sourceTree = "<group>";
